@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Data Science Job Salaries
+# 🚀 Exploratory Data Analysis on Data Science Job Salaries
 
 ## Investigate a small sample of the data science job market using Python
 
