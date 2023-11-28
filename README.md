@@ -4,7 +4,7 @@
 
 This project aims to provide a comprehensive investigation of the data science job landscape, focusing on depicting the most lucrative jobs available along with the demography. The main business question I aim to answer is: “Where in the world can potential entrants in the data science field find the most financially rewarding opportunities, and which factor influences these variations?”
 
-###Dataset
+### Dataset
 The dataset contains 11 attributes and 607 observations. There are 6 categorical attributes and 3 numerical attributes for analysis. The attributes of the dataset are:
 Numerical: work_year, salary, salaryinusd, remote_ratio
 Categorical: experience_level, employment_type, job_title, salary_currency, employee_residence, company_location and company_size. 
